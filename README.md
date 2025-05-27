@@ -10,7 +10,7 @@ Los notebooks están documentados y orientados a ser compartidos como ejemplos d
 
 | Nº | Proyecto                                  | Descripción breve                                                             | Enlace |
 |----|--------------------------------------------|-------------------------------------------------------------------------------|--------|
-| 1  | EDA – Titanic 🛳️                           | Análisis exploratorio del dataset del Titanic. Limpieza, imputación, visuales | [🔗 Ir](./Proyecto_1_EDA_Titanic/) |
+| 1  | EDA – Titanic 🛳️                           | Análisis exploratorio del dataset del Titanic. Limpieza, imputación, visuales | [🔗 Ir](./Proyecto_1_EDA_de_un_Dataset_Público/) |
 | 2  | Modelado Predictivo – Titanic              | Predicción de supervivencia usando árboles de decisión y KNN                 | [🔗 Ir](./Proyecto_2_Modelado_Titanic/) |
 | 3  | Clasificación de Texto – Sentimientos 🎬   | Análisis de sentimientos en reseñas de películas. Pipeline de NLP básico     | [🔗 Ir](./Proyecto_3_NLP_Sentimientos/) |
 | 4  | Clasificación de Imágenes – MNIST 🧠        | Reconocimiento de dígitos manuscritos con redes neuronales                   | [🔗 Ir](./Proyecto_4_Vision_MNIST/) |
